@@ -1,9 +1,8 @@
-# Pertemuan 2
+#WP 3
 > Web Programming 3
 <br>
 
-> [!NOTE]
-> Pertemuan 13 Persiapan presentasi project.
+
 
 > [!TIP]
 > Bila ada error tanyakan ke **[Chat GPT](https://chat.openai.com/).**
